@@ -4,19 +4,11 @@ Students should clone their individual file and update them with gist links for 
 
 ## Mod 3 Deliverables:
 
-* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: 
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
-
-## Mod 3 Deliverables:
-
-* Link to resume: [Resume](https://slack-files.com/T029P2S9M-F6S92J295-a1c2485aa2)
-* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume:
-* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):*
-* Link to Trello Board with companies that are being tracked: 
-* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md):
+* Link to resume *(this can be an uploaded PDF or a link to your resume that's been created online)*: [Travis-Resume](https://slack-files.com/T029P2S9M-F74GFP0R2-ece15989f1) 
+* Link to Turing portfolio complete with your name, photo, description, 1 project, and resume: [Turing-Portfolio](https://www.turing.io/alumni/travis-rollins)
+* Link to Flower Exercise using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf) *(you can either create a gist for the 7 categories with bullet points OR use this template and upload it into your submission):* [Flower-Exercise](https://gist.github.com/Kalikoze/d65d7bf9ab3ab5afac1391e1f1954382)
+* Link to Trello Board with companies that are being tracked: [Job-Search-Trello-Board](https://trello.com/b/Bop1GDza/job-search)
+* Job search action plan for M4, using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md): [Job-Search-Plan](https://gist.github.com/Kalikoze/cf5037ca8614d5689c3aeddb88ffadc2)
 
 ## Mod 2 Deliverables:
 
